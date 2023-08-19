@@ -1,0 +1,1 @@
+# DZSA-Magic-API-Query
